@@ -25,9 +25,3 @@ Installation
 
 For installation instructions please see the Frandsen Group diffpy.mdpf 
 `GitHub repo <https://github.com/FrandsenGroup/diffpy.mpdf>`
-
-
-.. toctree::
-   :hidden:
-
-   mPDFlicense
